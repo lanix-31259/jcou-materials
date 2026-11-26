@@ -1,2 +1,3 @@
-# jcou-materials
-Companion site for manuscript readers. Use the full link printed in the manuscript.
+# Workshop companion
+
+Open the full link in the workshop manuscript to view the materials.

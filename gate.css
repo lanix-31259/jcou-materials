@@ -1,0 +1,8 @@
+body.reader-gate {
+  box-sizing: border-box; min-height: 90vh; margin: 0; display: grid; place-items: center;
+  padding: 24px; background: #f9f8f3; color: #213a32; font-family: system-ui, sans-serif;
+}
+.reader-gate main { max-width: 33rem; padding-block: 1.8rem; border-block-start: 2px solid #235746; }
+.reader-gate h1 { margin: 0 0 1em; font: 500 clamp(2rem, 6vw, 3rem)/1.1 Georgia, serif; }
+.reader-gate p { margin: .65rem 0; line-height: 1.6; }
+.reader-gate [lang="ko"] { font-size: .92rem; word-break: keep-all; }
